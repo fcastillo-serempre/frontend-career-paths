@@ -1,4 +1,4 @@
-# Frontend Career Path
+# Frontend Career Paths
 
 En este repositorio se encuentran los planes de carrera de:
 

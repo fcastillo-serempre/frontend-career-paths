@@ -2,7 +2,7 @@
 
 En este repositorio se encuentran los planes de carrera de:
 
-- [Drupal](/drupal/drupal-career-path.md)
+- [Drupal](/drupal/README.md)
 - Angular
 - VueJS
 

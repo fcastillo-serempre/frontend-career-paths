@@ -11,7 +11,17 @@
     "type": "git",
     "url": "git+https://github.com/fcastillo-serempre/frontend-career-paths.git"
   },
-  "keywords": [],
+  "keywords": [
+    "frontend",
+    "career",
+    "paths",
+    "serempre",
+    "drupal",
+    "javascript",
+    "react",
+    "angular",
+    "vue"
+  ],
   "author": "Serempre",
   "license": "MIT",
   "bugs": {

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://w7.pngwing.com/pngs/243/135/png-transparent-web-development-drupal-content-management-system-web-design-web-design-web-design-text-logo.png" width="auto" height="100px"/>
+  <img src="https://www.drupal.org/files/cta/graphic/Wordmark_blue_RGB.png" width="auto" height="120px"/>
 </div>
 
 ## Objetivo

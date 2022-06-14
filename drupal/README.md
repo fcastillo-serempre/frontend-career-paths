@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Mediante este documento queremos mostrar el plan carrera y/o roadmap de un desarrollador frontend developer en Vue Js para Serempre. Hablaremos sobre los roles, conocimientos que deber aprender para seguir avanzando en el camino y sus obligaciones. Los roles que vamos a ver a continuación son Junior Frontend Developer (Vue Js), Mid Frontend Developer (Vue Js) y Senior Frontend Developer (Vue Js). Este documento está sujeto a cambios y a mejoras constates para cada vez ser más asertivo con el plan carrera propuesto
+Mediante este documento queremos mostrar el plan carrera y/o roadmap de un desarrollador frontend developer en Vue Js para Serempre. Hablaremos sobre los roles, conocimientos que deber aprender para seguir avanzando en el camino y sus obligaciones. Los roles que vamos a ver a continuación son Junior Frontend Developer (Drupal), Mid Frontend Developer (Drupal) y Senior Frontend Developer (Drupal). Este documento está sujeto a cambios y a mejoras constates para cada vez ser más asertivo con el plan carrera propuesto
 
 ## Requerimientos mínimos
 
@@ -12,9 +12,7 @@ Los requisitos para aprender Vuejs son HTML/HTML5 + CSS/CSS3 + JavaScript + Resp
 
 | Habilidades | Junior | Mid | Senior |
 | ------------- | ------------- | ------------- |  ------------- |
-| Deseadas | -Instalacion drupal<br>- Instalacion creacion y configuracion de temas custom<br>- Agregar Librerias Javascript (Slick slider, Owl carousel)<br>- Agregar Css framework (Taildwind css, Bootstrap)<br>- Manejo de archivos Drupal (TPL`S, Twigs)<br>- Sintaxis espesifica de twig ( {{....}} , {% … %} {# … #} ) | - Programacion PHP en drupal<br>- Administracion de drupal<br>- Gestion Tipos de contenido<br>- Gestion Vistas<br>- Gestion Bloques<br>- Gestion Menus<br>- Gestion Taxonomias<br>- Gestion Formularios<br>- Gestion Paginas
-<br>- Gestion Temas | - Bases de datos<br>- Creación de modulos personzados<br>- Traducciones<br>- Gestion de usuarios<br>- Enrutamiento<br>- Comandos Drush<br>- Ampliacion de formularios<br>- Drupal desacoplado RESTful, JSON:api<br>-
-Drupal desacoplado Integracion javascript frameworks(React, Vue)<br> |
+| Deseadas | -Instalacion drupal<br>- Instalacion creacion y configuracion de temas custom<br>- Agregar Librerias Javascript (Slick slider, Owl carousel)<br>- Agregar Css framework (Taildwind css, Bootstrap)<br>- Manejo de archivos Drupal (TPL`S, Twigs)<br>- Sintaxis especifica de twig ( {{....}} , {% … %} {# … #} ) | - Programacion PHP en drupal<br>- Administracion de drupal<br>- Gestion Tipos de contenido<br>- Gestion Vistas<br>- Gestion Bloques<br>- Gestion Menus<br>- Gestion Taxonomias<br>- Gestion Formularios<br>- Gestion Paginas <br>- Gestion Temas | - Bases de datos<br>- Creación de modulos personzados<br>- Traducciones<br>- Gestion de usuarios<br>- Enrutamiento<br>- Comandos Drush<br>- Ampliacion de formularios<br>- Drupal desacoplado RESTful, JSON:api<br>- Drupal desacoplado Integracion javascript frameworks(React, Vue)<br> |
 | Drupal | -Que es Content Management System (CMS)<br>- Que es Drupal<br> | - Filtros y Funciones existentes (upper, slice, first - last, include, max, min, capitalize, json_encode, trim …..)<br>- Renderizado de informacion de contenido<br> |
 
 - [drupalize.me](https://drupalize.me/)

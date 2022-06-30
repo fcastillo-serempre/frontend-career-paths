@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" width="auto" height="150px"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/768px-Angular_full_color_logo.svg.png" width="auto" height="150px"/>
 </div>
 
 ## Objetivo 

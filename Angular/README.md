@@ -8,7 +8,7 @@ Mediante este documento queremos mostrar el plan carrera y/o roadmap de un desar
 
 ## Requerimientos mínimos
 
-...
+onocimientos básicos en JS + HTML + CSS, comprensión de cómo funcionan los patrones modulares y los ciclos de vida de los componentes, conocer el concepto de componentes reactivos y cómo aplicarlos. Apoyarse y leer la documentación oficial de Angular para resolver los requerimientos solicitados en cada proyecto
 
 ### Junior Frontend Developer
 
